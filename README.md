@@ -7,7 +7,7 @@ I'm Faisal Han. I build things, solve problems, and enjoy exploring how they wor
 **Explore & Experiment 🧪**
 
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-handvi-black?style=for-the-badge&labelColor=black&color=yellow&logo=huggingface)](https://huggingface.co/handvi)
-[![Tnkr](https://img.shields.io/badge/Tnkr-faisalhan-black?style=for-the-badge&labelColor=black&color=white&logo=ai)](https://tnkr.ai/user/faisalhan)
+[![Tnkr](https://img.shields.io/badge/Tnkr-faisalhan-black?style=for-the-badge&labelColor=black&color=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNiI+CjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjkuMiIvPgo8cmVjdCB4PSI0LjMiIHk9IjQuMyIgd2lkdGg9IjE1LjQiIGhlaWdodD0iMTUuNCIvPgo8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIwLjkiIGZpbGw9IiNmZmZmZmYiIHN0cm9rZT0ibm9uZSIvPgo8L3N2Zz4K)](https://tnkr.ai/user/faisalhan)
 [![Hackaday](https://img.shields.io/badge/Hackaday-faisalhan-black?style=for-the-badge&labelColor=black&color=cyan&logo=hackaday)](https://hackaday.io/faisalhan)
 
 ---
